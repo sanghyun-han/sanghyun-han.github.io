@@ -6,7 +6,7 @@ description: Electrical and Computer Engineering, Seoul National University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: shan-oct-2021.jpg
   address: >
     <p>Email <a href="mailto:sanghyun@snu.ac.kr"><i class="fas fa-envelope""></i></a><br></p>
     <p>CV <a href="mailto:sanghyun@snu.ac.kr"><i class="far fa-address-card"></i></p>
