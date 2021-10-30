@@ -5,7 +5,7 @@ permalink: /
 description: <a href="#">Affiliations</a>. Electrical and Computer Engineering, Seoul National University
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
     <p>555 your office number</p>
