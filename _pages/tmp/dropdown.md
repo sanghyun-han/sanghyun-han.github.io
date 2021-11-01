@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: _
 title: Submenus
 nav: true
 dropdown: true
