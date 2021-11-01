@@ -1,7 +1,7 @@
 ---
 
 layout: about
-title: About
+title: about
 permalink: /
 description: Electrical and Computer Engineering, Seoul National University
 
