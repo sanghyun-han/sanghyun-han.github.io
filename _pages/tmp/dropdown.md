@@ -1,6 +1,6 @@
 ---
-layout: _
-title: _Submenus
+layout: page
+title: SubmenusSSS
 nav: true
 dropdown: true
 children: 
