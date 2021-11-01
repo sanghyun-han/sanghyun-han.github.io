@@ -23,5 +23,6 @@ social: false  # includes social icons at the bottom of the page
 
 **Sanghyun Han** is a Ph.D student in the Department of Electrical and Computer Engineering at Seoul National University.
 He is currently affiliated in [Networked Computing Lab (NXC)](https:/nxc.snu.ac.kr).
-
-  Hello world!
+```
+Hello world!
+```
