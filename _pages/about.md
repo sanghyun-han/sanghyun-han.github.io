@@ -26,6 +26,8 @@ social: false  # includes social icons at the bottom of the page
     <p>SNS <a href="https://www.instagram.com/sanghyun._.han/"><i class="fab fa-instagram"></i></i></p> -->
 **Sanghyun Han** is a Ph.D student in the Department of Electrical and Computer Engineering at Seoul National University.
 He is currently affiliated in [Networked Computing Lab (NXC)](https:/nxc.snu.ac.kr).
+
+His current research is...
 ```
 Hello world!
 ```
