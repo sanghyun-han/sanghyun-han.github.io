@@ -12,7 +12,7 @@ profile:
     <p>
     <b>CV</b> <a href="mailto:sanghyun@snu.ac.kr"><i class="far fa-address-card"></a>
     <b>Email</b> <a href="https://sanghyun-han.github.io/assets/pdf/shan_CV"><i class="fas fa-envelope"></i></a>
-    <b>Blog</b> <a href="sanghyun-han.tistory.com"><i class="fas fa-tags"></i></a>
+    <b>Blog</b> <a href="https://sanghyun-han.tistory.com"><i class="fas fa-tags"></i></a>
     </p>
     
 
