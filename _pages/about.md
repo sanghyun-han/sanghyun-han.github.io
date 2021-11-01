@@ -9,8 +9,11 @@ profile:
   align: right
   image: shan-oct-2021.jpg
   address: >
-    <p>Email <a href="mailto:sanghyun@snu.ac.kr"><i class="fas fa-envelope"></i></a>
-    CV <a href="mailto:sanghyun@snu.ac.kr"><i class="far fa-address-card"></i></p>
+    <p>
+    <b>CV</b> <a href="mailto:sanghyun@snu.ac.kr"><i class="far fa-address-card"></a>
+    <b>Email</b> <a href="https://sanghyun-han.github.io/assets/pdf/shan_CV"><i class="fas fa-envelope"></i></a>
+    <b>Blog</b> <a href="sanghyun-han.tistory.com"><i class="far fa-address-card"></i></a>
+    </p>
     
 
 news: true  # includes a list of news items
