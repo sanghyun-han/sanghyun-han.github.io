@@ -24,10 +24,10 @@ social: false  # includes social icons at the bottom of the page
 <!-- <p>CV <a href="mailto:sanghyun@snu.ac.kr"><i class="far fa-address-card"></i></p>
     <p>Affiliation <a href="https://nxc.snu.ac.kr"><i class="fas fa-tags"></i></p>
     <p>SNS <a href="https://www.instagram.com/sanghyun._.han/"><i class="fab fa-instagram"></i></i></p> -->
-<span class="font-weight-bold">Sanghyun Han</span> is currently a Ph.D student in the Department of Electrical and Computer Engineering at Seoul National University.
+<span class="font-weight-bold">Sanghyun Han</span> is a Ph.D student in the Department of Electrical and Computer Engineering at Seoul National University.
 He received B.S. degree from Yonsei University in 2020.
 
-His research ultimately aims at expanding computing power of mobile devices through networking. The research comprised of several sub-topics such as 5G/6G, virtualization, machine learning, etc. For more detailed information on my research topics please refer my <i>Blog</i> <a href="https://sanghyun-han.github.io/blog/"><i class="fas fa-tags"></i></a>. 
+His research ultimately aims at expanding computing power of mobile devices through networking. The research comprised of several sub-topics such as 5G/6G, virtualization, machine learning, etc. For more detailed information on the research topics mentioned above, please refer to my <i>Blog</i> <a href="https://sanghyun-han.github.io/blog/"><i class="fas fa-tags"></i></a>. 
 
 He is currently affiliated with <a href="https://nxc.snu.ac.kr"><i>Networked Computing Lab (NXC)</i></a> led by Prof. Kyunghan Lee.
 
