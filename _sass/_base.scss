@@ -48,21 +48,20 @@ blockquote {
   color: var(--global-theme-color);
 }
 
-/* article; Sanghyun Han */
-.article {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 0.750rem;
-}
+// /* article; Sanghyun Han */
+// .article {
+//   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+//   font-size: 0.750rem;
+// }
+
 // Profile
 
 .profile {
   margin-left: 1rem;
   width: 100%;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     p {
       display: inline-block;
       margin: 0;
