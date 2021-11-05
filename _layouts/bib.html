@@ -20,8 +20,8 @@
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
-          {% if author.last == site.scholar.last_name%}
-            {% if site.scholar.first_name contains author.first%}
+          {% if author.last == "Han"%}
+            {% if site.scholar.first_name contains "Sanghyun"%}
               {% assign author_is_self = true %}
             {% endif %}
           {% endif %}
@@ -37,9 +37,9 @@
           
           {% if forloop.length == 1 %}
             {% if author_is_self %}
-              <em>{{author.last}}, {{author.first}}</em>
+              <em>{{author.first}} {{author.last}}</em>
             {% else %}
-              {{author.last}}, {{author.first}}
+            {{author.first}} {{author.last}}
             {% endif %}
           {% else %}
             {% unless forloop.last %}
