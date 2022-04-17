@@ -328,14 +328,12 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
-  background-color: var(--global-bg-color);
-  color: var(--global-text-color);
   a {
     text-decoration: none;
 
     &:hover {
       .card-title {
-        color: var(--global-theme-color);
+        color: var(--global-text-color-light);
       }
     }
   }

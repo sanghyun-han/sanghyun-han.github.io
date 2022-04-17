@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /page/
+permalink: /research/
 title: Research
 description:
 years: [2022, 2021, 2020, 2019]
