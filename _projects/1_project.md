@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 1
+title: Graph Neural Network
 description: a project with a background image
-img: /assets/img/12.jpg
+img: /assets/img/background/DNN.png
 importance: 1
 category: work
 ---
+
+## Introduction
+The recent success of neural networks has boosted research on pattern recognition and data mining. Deep Learning is good at capturing hidden patterns of Euclidean data (images, text, videos). But what about applications where data is generated from non-Euclidean domains, represented as graphs with complex relationships and interdependencies between objects?
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
